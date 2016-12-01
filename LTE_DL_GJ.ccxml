@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configurations XML_version="1.2" id="configurations_0">
+<instance XML_version="1.2" desc="TCI6618 Device Functional Simulator, Little Endian" href="configurations/tisim_tci6618_pv_le.xml" id="TCI6618 Device Functional Simulator, Little Endian" xml="tisim_tci6618_pv_le.xml" xmlpath="configurations"/>
+    <configuration XML_version="1.2" description="Simulates the TCI6618 device which includes C66x CorePac(4x), MSMC (Multicore Shared Memory Controller), Inter-processor communication, CPINTC(3x), EDMA(3x), TIMER64(8x), VCP2(Viterbi Decoder Coprocessor)(4x), AIF2 (Antenna Interface 2), RAC2(Receive Accelerator)(2x), TAC (Transmit Accelerator), TCP3d(Turbo Decoder Coprocessor)(3x), TCP3e (Turbo Encoder Coprocessor), Semaphore2, DDR3 Memory controller and DDR3 memory, GPIO, Queue-manager Sub-system, SRIO, Network coprocessor (Packet Accelerator, Switch Sub-system), FFTC(3x), PCIe Sub-system, BCP(Bit Coprocessor). Does not model Power and Sleep Controller. This configuration is functional (bit accurate) . This configuration is suitable for applications development and understanding the system behavior, but doesn't support cycle accuracy at the device level." id="TCI6618 Device Functional Simulator, Little Endian">
+        <connection XML_version="1.2" desc="TCI6618 Device Functional Simulator, Little Endian_0" id="TCI6618 Device Functional Simulator, Little Endian"/>
+    </configuration>
+</configurations>
